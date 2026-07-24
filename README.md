@@ -19,8 +19,6 @@ This project analyzes Uber ride data using Power BI to provide insights into boo
 - DAX
 - Excel
 
-## Dashboard Preview
-(Add your screenshots here)
 
 ## Author
 Jai Pratap Singh
